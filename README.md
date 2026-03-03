@@ -15,6 +15,11 @@ Now, import the raw excel file into Power BI where Power Query was used to trans
 - Create new colum for average salary rather than a range
 - ...
 
+Below is a sample of the transformed data. (Total columns: 24, Total rows: 630)
+
+<img width="1637" height="850" alt="image" src="https://github.com/user-attachments/assets/e113676f-2240-4866-8a5c-3afd9e84449a" />
+
+
 # Visuals/Dashboard
 After cleaning/transforming the data, create visualizations (column chart, bar chart, treemap, cards, donut chart, and gauges) that each explain some portion of relevant information that stems from the overall responses. 
 
